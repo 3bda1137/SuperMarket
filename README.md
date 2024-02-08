@@ -17,7 +17,10 @@ Getting Started
 Prerequisites
 .NET SDK installed on your machine.
 Clone this repository to your local environment.
+
 Installation
+
 1-Navigate to the project directory.
+
 2-Build and run the application.
 
